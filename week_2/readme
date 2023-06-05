@@ -1,0 +1,6 @@
+Lab: scrabble.c determines which of two Scrabble words is worth more. Portion of code provided, //TODO #1 and //TODO #2 are original code.
+
+Project: readability.c calculates the apporixmate grade level needed to comprehend some text input according to Scholastic Publisher's reading comprehension standards
+
+Project: wordle.c recreates the game popular Wordle daily word game, where users try to guess a randomly selected word within a certain number of tries. Letters in the user's guess that are not in the target word turn red, guessed letters that are in the target word but in the wrong location turn yellow, and guessed letters that are in the target word and in the correct position turn green. Users input the desired length of the word. Project file includes lists of 5-, 6-, 7-, and 8-letter words as .txt files. Portion of the code was provided, and //TODO #1 - 7 are original code. 
+
