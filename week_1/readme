@@ -1,4 +1,4 @@
-Lab 1: population.c determines how long it takes for a population to reach a particular size if 3 new llamas are born every year 
+Lab: population.c determines how long it takes for a population to reach a particular size if 3 new llamas are born every year 
 and 4 llamas pass away every year. Requests user input for start and end populations
 
 Project: credit.c used to determine if a credit card number input is valid using Luhn's algorithm
